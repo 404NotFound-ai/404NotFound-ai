@@ -1,8 +1,10 @@
 <h1 align="center">404NotFound</h1>
-<h3 align="center">Lost In Code | Tech Explorer</h3>
+<h3 align="center">Lost In Code | Tech Explorer | AI Researcher</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=404+NotFound;Code+Never+Dies;Keep+Exploring" alt="typing">
+<a href="https://github.com/404NotFound">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&width=460&center=true&vCenter=true&lines=Code+Never+Dies;AI+Rewrite+Fate;Logic+Rules+Everything;Cross+The+Digital+Void;Keep+Exploring" alt="typing">
+</a>
 </p>
 
 <p align="center">
@@ -14,6 +16,13 @@
 
 ---
 
+### 🧑‍💻 About Me
+Mainly engaged in artificial intelligence research and practical development.
+Continuously explore large models, visual intelligence and edge AI technology.
+Keep learning and building tech projects steadily.
+
+---
+
 ### 🏆 Honor Badge
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=404NotFound&theme=dark&no-frame=true&margin-w=8" width="580">
@@ -21,21 +30,32 @@
 
 ### 📈 Basic Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=404NotFound&show_icons=true&theme=dark&hide_border=true&count_private=false" height="160"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=404NotFound&theme=dark&hide_border=true" height="160"/>
 </p>
 
+
+
 ### 📊 Code Language
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404NotFound&layout=donut&theme=dark&hide_border=true" width="320">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 ### ✨ Daily Contribution
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=404NotFound&theme=dark&hide_border=true&bg_color=0d1117" width="680">
+<img src="https://img.shields.io/badge/Coding-Daily%20Insist-4ecca3?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Explore-Unlimited%20Potential-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white">
 </p>
 
 ---
+
+### ✨ Quote
+**Code powers the world, AI defines the future.**
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=232931,4ecca3&height=70&section=footer&text=404NotFound&fontColor=fff" width="100%">
