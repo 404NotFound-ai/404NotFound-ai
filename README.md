@@ -11,11 +11,12 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/404NotFound?style=flat-square&color=ff4757" alt="Stars">
-<img src="https://img.shields.io/github/forks/404NotFound?style=flat-square&color=2ed573" alt="Forks">
-<img src="https://img.shields.io/github/issues/404NotFound?style=flat-square&color=1e90ff" alt="Issues">
-<img src="https://img.shields.io/github/license/404NotFound?style=flat-square&color=a55eea" alt="License">
+<img src="https://img.shields.io/github/stars/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Stars">
+<img src="https://img.shields.io/github/forks/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Forks">
+<img src="https://img.shields.io/github/issues/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Issues">
+<img src="https://img.shields.io/github/license/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="License">
 </p>
+
 
 ---
 
