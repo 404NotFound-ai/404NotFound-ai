@@ -180,9 +180,8 @@ Keep learning and building tech projects steadily.
 </table>
 <br><br>
 
-
 </div>
----
+
 
 ### ✨ Quote
 **Code powers the world, AI defines the future.**
