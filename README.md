@@ -29,8 +29,12 @@ Keep learning and building tech projects steadily.
 
 ### 🏆 Honor Badge
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=404NotFound&theme=dark&no-frame=true&margin-w=8" width="580">
+<img src="https://trophy.ryglcloud.net/?username=404NotFound&theme=dark&no-frame=true&margin-w=8&format=png" width="580">
 </p>
+
+
+
+
 
 ### 📈 Basic Stats
 <p align="center">
