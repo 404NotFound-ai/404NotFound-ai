@@ -24,6 +24,10 @@
 Mainly engaged in artificial intelligence research and practical development.
 Continuously explore large models, visual intelligence and edge AI technology.
 Keep learning and building tech projects steadily.
+interested in becoming a seed user  .
+Please feel free to contact me. 
+Email: newton19605@gmail.com
+
 
 ---
 
