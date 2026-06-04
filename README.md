@@ -37,15 +37,10 @@ Email: newton19605@gmail.com
 </p>
 
 
-
-
-
 ### 📈 Basic Stats
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=404NotFound&theme=dark&hide_border=true" height="160"/>
+<img src="https://streak-stats.vercel.app/?user=你的ID&theme=dark&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
-
 
 
 ### 📊 Code Language
