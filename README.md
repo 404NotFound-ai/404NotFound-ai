@@ -9,7 +9,6 @@
 </p>
 
 
-
 <p align="center">
 <img src="https://img.shields.io/github/stars/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Stars">
 <img src="https://img.shields.io/github/forks/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Forks">
