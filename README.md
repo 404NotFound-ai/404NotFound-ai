@@ -31,9 +31,9 @@ Email: newton19605@gmail.com
 ---
 
 ### 🏆 Honor Badge
-<p align="center">
-<img src="https://trophy.ryglcloud.net/?username=404NotFound&theme=dark&no-frame=true&margin-w=8&format=png" width="580">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=testuser&theme=dark&no-frame=true&margin-w=8" width="580">
+</div>
 
 
 ### 📈 Basic Stats
