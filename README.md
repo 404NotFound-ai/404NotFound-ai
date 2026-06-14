@@ -32,7 +32,7 @@ Email: newton19605@gmail.com
 
 ### 🏆 Honor Badge
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=testuser&theme=dark&no-frame=true&margin-w=8" width="580">
+  <img src="https://github-profile-trophy.vercel.app/?username=404NotFound-ai&theme=dark&no-frame=true&margin-w=8" width="580">
 </div>
 
 
