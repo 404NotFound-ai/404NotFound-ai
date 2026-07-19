@@ -8,14 +8,7 @@
 </a>
 </p>
 
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Stars">
-<img src="https://img.shields.io/github/forks/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Forks">
-<img src="https://img.shields.io/github/issues/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="GitHub Issues">
-<img src="https://img.shields.io/github/license/404NotFound-ai/404NotFound-ai?style=flat-square&labelColor=1f2937&color=6b7280" alt="License">
-</p>
-
+ 
 
 ---
 
@@ -29,13 +22,6 @@ Email: newton19605@gmail.com
 
 
 ---
-
-### 🏆 Honor Badge
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-404NotFound--ai-181717?style=flat-square&logo=github" width="200">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" width="120">
-  <img src="https://img.shields.io/badge/Theme-Dark-222222?style=flat-square" width="120">
-</div>
 
 
 ### 📈 Basic Stats
