@@ -40,11 +40,6 @@ Email: newton19605@gmail.com
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-### ✨ Daily Contribution
-<p align="center">
-<img src="https://img.shields.io/badge/Coding-Daily%20Insist-4ecca3?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Explore-Unlimited%20Potential-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white">
-</p>
 
 
 
